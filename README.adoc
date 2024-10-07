@@ -1,0 +1,7 @@
+= IntelliJ IDEA plugin sample
+
+A simple IntelliJ IDEA plugin inspired by https://microsoft.github.io/vscode-essentials/en/10-create-an-extension.html.
+
+The plugin adds a `Search on StackOverflow` action to editor and console windows.
+If text is selected in the window, then the selected text will be used as the search query, along with the language detected by IDEA.
+If no text is selected, then a dialog will be displayed to allow the search query to be entered.

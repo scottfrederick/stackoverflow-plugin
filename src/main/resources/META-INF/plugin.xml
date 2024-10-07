@@ -30,14 +30,14 @@
         <action
                 id="StackOverflow.Search.Editor"
                 class="com.example.stackoverflow.SearchAction"
-                text="Search on Stack Overflow"
+                text="Search on StackOverflow"
                 description="Search on StackOverflow">
             <add-to-group group-id="EditorPopupMenu" anchor="last"/>
         </action>
         <action
                 id="StackOverflow.Search.Console"
                 class="com.example.stackoverflow.SearchAction"
-                text="Search on Stack Overflow"
+                text="Search on StackOverflow"
                 description="Search on StackOverflow">
             <add-to-group group-id="ConsoleEditorPopupMenu" anchor="last"/>
         </action>
